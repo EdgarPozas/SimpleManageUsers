@@ -20,9 +20,9 @@ Firstly open the solution and then press Play button to start the compilation.
 ## Views
 
 Principal
-![Image](./Captures/start.png)
+![Image](./Captures/start.PNG)
 
 Edit
-![Image](./Captures/edit.png)
+![Image](./Captures/edit.PNG)
 
 Developed by Edgar Pozas
